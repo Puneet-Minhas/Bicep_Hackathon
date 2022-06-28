@@ -27,11 +27,10 @@ In this challenge we'll be setting up all the tools we will need to complete our
 
 1. You have Azure Cloud Shell or VSCode
 2. Running `az --version` shows the version of your Azure CLI, at least version 2.20.x
-![](Resources\Bicep-Challenge-00\cli_version_check.png)
-3. Bicep tolls installed
-   
-   ![](Resources\Bicep-Challenge-00\bicep_cli_check.png)
-1. Visual Studio Code and Bicep tools are installed.
+![](Resources/Bicep-Challenge-00/cli_version_check.png)
+3. Bicep tools installed <br>
+![](Resources/Bicep-Challenge-00/bicep_cli_check.png)
+5. Visual Studio Code and Bicep tools are installed.
 
 ## Resources
 
