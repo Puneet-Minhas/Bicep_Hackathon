@@ -7,7 +7,7 @@
 In this challenge we'll be setting up all the tools we will need to complete our challenges.
 
 - Ensure you have:
-  - A sandbox [Azure Subscription](https://azure.microsoft.com/en-us/free/) for this workshop
+  - A sandbox [Azure Subscription](https://azure.microsoft.com/en-us/free/) for this workshop, where attendees have the rights to create various resources.
     - If using cloud shell, ensure you have a storage account created for cloud shell to connect to
    - A sandbox Azure DevOps organisation for this workshop, where attendees have the rights to create new Azure DevOps Project within the organisation.
   
