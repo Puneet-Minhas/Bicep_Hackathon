@@ -1,4 +1,4 @@
-# What The Hack: Infrastructure As Code with Bicep
+# Introduction to Infrastructure As Code (IaC) using Bicep
 
 ## Introduction
 
@@ -29,7 +29,7 @@ The challenges build upon each other incrementally. You will start by creating a
 
 - Challenge 0: **[Pre-Requisites - Ready, Set, Go!](./Student/Bicep-Challenge-00.md)**
    - Prepare your workstation to work with Azure
-  
+
 ## Prerequisites
 
 [Pre-Requisites - Ready, Set, Go!](./Student/Bicep-Challenge-00.md)
