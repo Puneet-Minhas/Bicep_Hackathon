@@ -29,7 +29,12 @@ The challenges build upon each other incrementally. You will start by creating a
 
 - Challenge 0: **[Pre-Requisites - Ready, Set, Go!](./Student/Bicep-Challenge-00.md)**
    - Prepare your workstation to work with Azure
-
+- Challenge 1: **[Basic Bicep](./Student/Bicep-Challenge-01.md)**
+   - Develop a simple Bicep file that creates an Azure Storage Account
+- Challenge 2: **[Leveraging Parameters, Variables and Outputs](./Student/Bicep-Challenge-02.md)**
+   - Improve the exisitng Bicep from Challenge 1 to use Variables, Parameters & Outputs
+- Challenge 3: **[Bicep expressions and Referencing resources](./Student/Bicep-Challenge-03.md)**
+   - See how using exsisting Bicep functions and Expresstions can improve your template 
 ## Prerequisites
 
 [Pre-Requisites - Ready, Set, Go!](./Student/Bicep-Challenge-00.md)
