@@ -33,7 +33,12 @@ The challenges build upon each other incrementally. You will start by creating a
    - Develop a simple Bicep file that creates an Azure Storage Account
 - Challenge 2: **[Leveraging Parameters, Variables and Outputs](./Student/Bicep-Challenge-02.md)**
    - Improve the exisitng Bicep from Challenge 1 to use Variables, Parameters & Outputs
-
+- Challenge 3: **[Bicep expressions and Referencing resources](./Student/Bicep-Challenge-03.md)**
+   - See how using exsisting Bicep functions and Expresstions can improve your template 
+- Challenge 4: **[Advanced resource declarations](./Student/Bicep-Challenge-04.md)**
+   - Working with loops to deploy multiple resources
+- Challenge 5: **[Readable Code](./Student/Bicep-Challenge-05.md)**
+   - Learn about Bicep formatting best practises
 ## Prerequisites
 
 [Pre-Requisites - Ready, Set, Go!](./Student/Bicep-Challenge-00.md)
