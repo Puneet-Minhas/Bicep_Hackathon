@@ -21,7 +21,7 @@ The network architecture and security groups are typically stable and do not cha
 In this challenge you will separate your existing Bicep template deployment into two sets of modules. 
 
 - Separate app service plan in to their own module.
-  - Create a parameter for sku in this module. Pass its value from the main template that will call this module.
+  - Create a parameter for skuName in this module. Pass sku name from the main template that will call this module. Use the skuName parameter while setting the sku properties in the module.
 - Separate app service in to their own module.
   - Create a parameter for appPlanId in this module. The value for this parameter should be passed from the main template that will call this module.
 - Create a new Bicep template that deploys each of the new modules.
