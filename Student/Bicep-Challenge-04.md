@@ -18,6 +18,9 @@ Amend the Bicep file to perform the following:
 - Use the Azure portal to verify 2 new unique storage accounts have been created.
 - Confirm you no longer have deployment warnings against the 'location' field
 
+
+## Stretch goal
+- Create an output array and get each storage account's id
 ## References
 
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/loops

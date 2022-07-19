@@ -39,6 +39,8 @@ The challenges build upon each other incrementally. You will start by creating a
    - Working with loops to deploy multiple resources
 - Challenge 5: **[Readable Code](./Student/Bicep-Challenge-05.md)**
    - Learn about Bicep formatting best practises
+ - Challenge 6: **[Bicep Modules](./Student/Bicep-Challenge-06.md)**
+   - Learn about Bicep modules
 ## Prerequisites
 
 [Pre-Requisites - Ready, Set, Go!](./Student/Bicep-Challenge-00.md)
