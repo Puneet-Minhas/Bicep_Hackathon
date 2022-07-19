@@ -55,6 +55,9 @@ resource webApplication 'Microsoft.Web/sites@2018-11-01' = {
 1. Verify that the Bicep CLI does not show any errors and correctly emits an ARM JSON template that includes all of the resources in the Bicep modules.
 1. Verify that all resources deploy as before when you had a single Bicep template
 
+## Stretch Goal
+
+Use the example [here](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-bicep?tabs=CLI) and convert this example into using modules 
 ## Learning Resources
 
 - [Use Bicep modules](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/modules)
